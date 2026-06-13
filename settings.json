@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "sasta bot h",
-    "password": "soloplayz",
+    "username": "sastabot",
+    "password": "",
     "type": "offline"
   },
   "server": {
